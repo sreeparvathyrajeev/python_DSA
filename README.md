@@ -10,19 +10,6 @@ Each implementation is (ideally) self-contained, focusing on one concept or prob
 
 
 
-📂 Repository Structure
-python_DSA/
-│
-├── ARRAY/                ← Array-related problems & utilities  
-├── LINKED_LIST/          ← Linked list data structure & operations  
-├── STACK/                 ← Stack implementations & problems  
-├── QUEUE/                 ← Queue implementations & related problems  
-├── TREE/                  ← Tree & graph algorithms  
-├── README.md              ← This file  
-└── …                      ← (Future) Other DS/Algorithms folders  
-
-
-
 🛠️ Tech Stack & Tools
 
 Language: Python 3
