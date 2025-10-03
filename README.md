@@ -1,30 +1,66 @@
-📚 Data Structures & Algorithms in Python
-
-This repository contains my implementations of various data structures and algorithms in Python. I’ve been learning and practicing DSA concepts to strengthen my problem-solving and programming skills.
+Python DSA (Data Structures & Algorithms)
 
 
+🚀 Overview
 
-⚙️ Tech Stack
+This repository contains my implementations of various Data Structures & Algorithms (DSA) in Python 3.
+The goal is to build a strong foundation in problem-solving and algorithmic thinking by coding and analyzing classic DSA patterns.
+
+Each implementation is (ideally) self-contained, focusing on one concept or problem. Over time, I’ll expand this with explanations, complexities, and references to problem sources.
+
+
+
+📂 Repository Structure
+python_DSA/
+│
+├── ARRAY/                ← Array-related problems & utilities  
+├── LINKED_LIST/          ← Linked list data structure & operations  
+├── STACK/                 ← Stack implementations & problems  
+├── QUEUE/                 ← Queue implementations & related problems  
+├── TREE/                  ← Tree & graph algorithms  
+├── README.md              ← This file  
+└── …                      ← (Future) Other DS/Algorithms folders  
+
+
+
+🛠️ Tech Stack & Tools
 
 Language: Python 3
 
-Editor/IDE: VS Code
+Editor / IDE: VS Code 
+
+Dependencies: None (pure Python)
+
+You can run each script individually (they should not depend on each other)
 
 
 
-📌 Notes
+📈 What’s Inside
 
-Each file is self-contained and demonstrates a single algorithm/problem.
+Implementations of classic data structures (arrays, linked lists, stacks, queues, trees)
 
-This repo is continuously updated as I practice more problems.
+Algorithmic solutions (searching, sorting, traversals, recursion, etc.)
+
+Each file ideally includes docstrings or comments to describe what it does
 
 
 
+🌱 Future Plans
 
-✨ Future Plans
+Document time & space complexities for each algorithm
 
-Add Jupyter notebooks with explanations.
+Include problem links (e.g. LeetCode, GeeksforGeeks, NeetCode)
 
-Document time and space complexity for each algorithm.
+Cover more advanced topics (graphs, dynamic programming, greedy algorithms, etc.)
 
-Include problem links (LeetCode, Neetcode).
+
+
+🧩 How to Contribute / Use
+
+Clone the repository:
+
+git clone https://github.com/sreeparvathyrajeev/python_DSA.git
+
+Navigate into a folder (e.g. ARRAY) and run scripts or add your own.
+
+
