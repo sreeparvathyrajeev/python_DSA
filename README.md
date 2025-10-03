@@ -38,7 +38,7 @@ Document time & space complexities for each algorithm
 
 Include problem links (e.g. LeetCode, GeeksforGeeks, NeetCode)
 
-Cover more advanced topics (graphs, dynamic programming, greedy algorithms, etc.)
+Cover more advanced topics (graphs, dynamic programming etc.)
 
 
 
