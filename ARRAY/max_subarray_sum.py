@@ -29,6 +29,7 @@ def max_subarray_sum_non_empty(arr):
     return max_sum  
 
 #optimized approach using kadane's algorithm
+#if all elements are negative, return 0
 #time complexity is O(n)
 def max_subarray_sum_kadane(arr):
     max_sum=0
