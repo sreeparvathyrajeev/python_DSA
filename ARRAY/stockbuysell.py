@@ -7,9 +7,9 @@ def max_profit(prices):
     res = 0
 
     # Explore all possible ways to buy and sell stock
-    for i in range(n - 1):
-        for j in range(i + 1, n):
-            res = max(res, prices[j] - prices[i])
+    for buying_day in range(n - 1):
+        for selling_day in range(buying_day+ 1, n):
+            res = max(res, prices[selling_day] - prices[buying_day])
     
     return res
 

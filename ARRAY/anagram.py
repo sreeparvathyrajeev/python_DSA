@@ -1,4 +1,4 @@
-def isAnagram(s: str, t: str) -> bool:
+def isAnagram(s, t):
         lst_s=list(s)
         lst_t=list(t)
         
