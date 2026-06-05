@@ -1,9 +1,10 @@
+# An autobiographical number is a number N such that the first digit of N counts how many 0s are in N, the second digit counts how many 1s are in N, and so on.
 
 #O(n^2) time complexity
 
 def autob(s):
     freq={}
-    lst=list(map(int,list(s)))
+    lst=list(map(int,list(s))) 
     for i in range(len(lst)):
 
         freq[i]=lst.count(i)
