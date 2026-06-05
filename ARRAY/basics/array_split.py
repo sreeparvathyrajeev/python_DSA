@@ -1,3 +1,4 @@
+# Given an array of integers, find the sum of the second largest even number and the second largest odd number in the array. 
 def matrixfn(n,matrix):
     even=[]
     odd=[]
