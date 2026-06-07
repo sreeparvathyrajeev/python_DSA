@@ -1,6 +1,6 @@
 # An autobiographical number is a number N such that the first digit of N counts how many 0s are in N, the second digit counts how many 1s are in N, and so on.
 
-#O(n^2) time complexity
+#O(n^2) time complexity because the count function is O(n) and we are calling it n times.
 
 def autob(s):
     freq={}
@@ -14,7 +14,7 @@ def autob(s):
     return False
     
 
-#O(n) time complexity
+#O(n) time complexity 
 
 def autob_efficient(s):
     freq=[0]*len(s)
@@ -26,4 +26,4 @@ def autob_efficient(s):
         if freq[i]!=int(s[i]):
             return False
     
-    return len(set(s))
+    return True

@@ -1,3 +1,5 @@
+# Given a string str containing digits and characters A, B, C. The characters A, B, C represent bitwise AND, OR and XOR respectively. 
+# The task is to evaluate the expression in the string and return the result.
 def binary_operation(str):
     lst= list(str)
     if len(lst) ==0:
