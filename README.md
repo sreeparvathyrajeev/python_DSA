@@ -1,12 +1,22 @@
 Python DSA (Data Structures & Algorithms)
 
 
+
+
+
+
+
 Overview:
 
 This repository contains my implementations of various Data Structures & Algorithms (DSA) in Python 3.
 The goal is to build a strong foundation in problem-solving and algorithmic thinking by coding and analyzing classic DSA patterns.
 
 Each implementation is (ideally) self-contained, focusing on one concept or problem. Over time, I’ll expand this with explanations, complexities, and references to problem sources.
+
+
+
+
+
 
 
 
@@ -22,6 +32,11 @@ You can run each script individually (they should not depend on each other)
 
 
 
+
+
+
+
+
 What’s Inside:
 
 Implementations of classic data structures (arrays, linked lists, stacks, queues, trees)
@@ -29,6 +44,11 @@ Implementations of classic data structures (arrays, linked lists, stacks, queues
 Algorithmic solutions (searching, sorting, traversals, recursion, etc.)
 
 Each file ideally includes docstrings or comments to describe what it does
+
+
+
+
+
 
 
 
