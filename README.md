@@ -13,20 +13,9 @@ The goal is to build a strong foundation in problem-solving and algorithmic thin
 
 Each implementation is (ideally) self-contained, focusing on one concept or problem. Over time, I’ll expand this with explanations, complexities, and references to problem sources.
 
-
-
-
-
-
-
-
-Tech Stack & Tools:
-
 Language: Python 3
 
 Editor / IDE: VS Code 
-
-Dependencies: None (pure Python)
 
 You can run each script individually (they should not depend on each other)
 
