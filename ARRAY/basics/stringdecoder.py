@@ -1,3 +1,4 @@
+
 def decode(string):
     lst1=string.split('0')
     result=''

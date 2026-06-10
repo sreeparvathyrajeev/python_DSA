@@ -8,7 +8,7 @@ graph1 = {
     'F':[('D',2),('E',6)]   
 }
 
-#find edge weight between A and C
+#find edge weight between two nodes
 def find_edge_weight(graph, node1, node2):
     for neighbor, weight in graph[node1]:
         if neighbor == node2:
